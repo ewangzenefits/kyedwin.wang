@@ -1,2 +1,2 @@
 # kyedwin.wang
-Personal Website of Edwin Wang
+Personal usage of Edwin Wang
